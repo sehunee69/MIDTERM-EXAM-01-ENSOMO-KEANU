@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "item_name": "Pencil",
+    "category": "School Item",
+    "location_found": "Classroom",
+    "date_found": "October 14, 2026",
+    "claimed": "false"
+
+},
+{
+    "id": 2,
+    "item_name": "Paper",
+    "category": "School Item",
+    "location_found": "Classroom",
+    "date_found": "October 14, 2026",
+    "claimed": "false"
+},
+{
+    "id": 3,
+    "item_name": "Ballpen",
+    "category": "School Item",
+    "location_found": "Classroom",
+    "date_found": "October 14, 2026",
+    "claimed": "true"
+}
+]
